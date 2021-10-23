@@ -10,5 +10,10 @@ https://3ds.hacks.guide
 
 DO NOT USE A YOUTUBE TUTORIAL - those tend to be out of date, and have a higher chance of bricking your system entirely. Do this at your own caution as i am not responsible for bricked 3DS'.
 
+# Compatability
+.cia - For use on a actual 3DS
+
+.3ds - Reserved for 3DS Emulators (Citra, etc)
+
 # When will you upload more?
 More will be added when i have time to actually rip them lol
